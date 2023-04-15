@@ -5,7 +5,7 @@ url = "https://api.openai.com/v1/chat/completions"
 
 headers = {
     "Content-Type": "application/json",
-    "Authorization": "Bearer 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"
+    "Authorization": "Bearer "
 }
 while(1):
     input = input()
